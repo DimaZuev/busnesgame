@@ -1,2 +1,0 @@
-# busnesgame
-mini app
